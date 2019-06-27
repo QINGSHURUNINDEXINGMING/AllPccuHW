@@ -1,0 +1,3 @@
+introduce to the design and analysis of algorithm
+
+Hashing p.297
